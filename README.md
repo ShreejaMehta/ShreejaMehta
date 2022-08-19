@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreeja Mehta</h1>
-<h3 align="center">A passionate frontend developer from India. Aspiring to become a FullStack developer soon!</h3>
+<h3 align="center">A passionate frontend developer from India. Aspiring to become a full stack developer soon!</h3>
 
 <p align="left"> <a href="https://twitter.com/shreeja_mehta" target="blank"><img src="https://img.shields.io/twitter/follow/shreeja_mehta?logo=twitter&style=for-the-badge" alt="shreeja_mehta" /></a> </p>
 
