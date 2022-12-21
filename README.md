@@ -16,6 +16,7 @@
 <a href="https://instagram.com/shreeja_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreeja_mehta" height="30" width="40" /></a>
 </p>
 <h3 align="left">Holopin Badges:</h3>
+
 [![An image of @shreejamehta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreejamehta)](https://holopin.io/@shreejamehta)
 
 <h3 align="left">Languages and Tools:</h3>
